@@ -1,6 +1,6 @@
 # Leetcode Questions
 
-Solutions to leetcode questions that I practice
+Solutions to leetcode questions that I practice.
 
 Note- 
 1. Questions are solved in C++ language.
