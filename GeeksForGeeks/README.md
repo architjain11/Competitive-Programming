@@ -8,4 +8,4 @@ Note-
 3. Only 100% accepted solutions are posted here.
 
 ## Video demonstration of solution
-1. [Ishaan Loves Chocolates](https://www.youtube.com/watch?v=5Btp6Y7db8I)
+1. [Ishaan Loves Chocolates](https://www.youtube.com/watch?v=5Btp6Y7db8I){:target="_blank"}
