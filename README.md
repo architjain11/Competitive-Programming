@@ -1,6 +1,6 @@
 # Competitive Coding
 
-### Practice questions successfully solved are added in this repository in it's respective folder
+### Practice questions successfully solved are added in this repository in their respective folders.
 
 Advent of Code- Questions solved in accordance to this [link](https://adventofcode.com/2020/)
 
