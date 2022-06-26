@@ -1,8 +1,10 @@
-# Leetcode Questions
+# Competitive Coding
 
-Solutions to leetcode questions that I practice.
+Practice questions successfully solved are added in this repository in it's respective folder
 
-Note- 
-1. Questions are solved in C++ or Python.
-2. Only the function required to be completed in Leetcode is added in this repository.
-3. Only 100% accepted solutions are hosted here.
+Advent of Code- Questions solved in accordance to this [link](https://adventofcode.com/2020/)
+CodeChef- Problems solved on [CodeChef](https://www.codechef.com/practice?itm_medium=navmenu&itm_campaign=practice) website.
+Codeforces- Problems solved on [Codeforces](https://codeforces.com/problemset) website.
+GeeksForGeeks- Problems solved on [GFG](https://practice.geeksforgeeks.org/problem-of-the-day) website.
+LeetCode- Problems solved on [LeetCode](https://leetcode.com/problemset/all/) website.
+Misc. Programs- Some randomly solved programs.
