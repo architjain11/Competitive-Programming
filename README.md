@@ -2,7 +2,7 @@
 
 ### Practice questions successfully solved are added in this repository in their respective folders.
 
-Advent of Code- Questions solved in accordance to this [link](https://adventofcode.com/2020/)
+Advent of Code- Problems solved on [Advent of Code 2020](https://adventofcode.com/2020/)
 
 CodeChef- Problems solved on [CodeChef](https://www.codechef.com/practice?itm_medium=navmenu&itm_campaign=practice) website.
 
