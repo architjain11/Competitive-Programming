@@ -12,4 +12,4 @@ GeeksForGeeks- Problems solved on [GFG](https://practice.geeksforgeeks.org/probl
 
 LeetCode- Problems solved on [LeetCode](https://leetcode.com/problemset/all/) website.
 
-Misc. Programs- Some randomly solved programs.
+Misc. Programs- Random solved programs.
