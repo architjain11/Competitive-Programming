@@ -1,4 +1,4 @@
-# GeeksForGeeks Questions
+# HackerRank Questions
 
 Solutions to HackerRank questions that I practice.
 
