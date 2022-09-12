@@ -12,6 +12,6 @@ GeeksForGeeks- Problems solved on [GFG](https://practice.geeksforgeeks.org/probl
 
 HackerRank- Problems solved on [HackerRank](https://www.hackerrank.com/dashboard) website. (6ques)
 
-LeetCode- Problems solved on [LeetCode](https://leetcode.com/problemset/all/) website. (50ques)
+LeetCode- Problems solved on [LeetCode](https://leetcode.com/problemset/all/) website. (61ques)
 
 Misc. Programs- Random solved programs. (4programs)
