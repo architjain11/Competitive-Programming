@@ -1,6 +1,6 @@
 # Advent Of Code Questions
 
-Solutions to Advent of Code (2020) questions that I practice.
+Solutions to [Advent of Code 2022](https://adventofcode.com/2022) questions that I practice.
 
 Note- 
 1. Questions are solved in Python and their data sets are provided as well.

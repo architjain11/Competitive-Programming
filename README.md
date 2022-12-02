@@ -2,7 +2,7 @@
 
 ### Practice questions successfully solved are added in this repository in their respective folders.
 
-Advent of Code- Problems solved on [Advent of Code 2020](https://adventofcode.com/2020/). (6days)
+Advent of Code- Problems solved on [Advent of Code](https://adventofcode.com/). (2020- 6ques, 2022- ongoing)
 
 CodeChef- Problems solved on [CodeChef](https://www.codechef.com/practice?itm_medium=navmenu&itm_campaign=practice) website. (34ques)
 
@@ -12,6 +12,6 @@ GeeksForGeeks- Problems solved on [GFG](https://practice.geeksforgeeks.org/probl
 
 HackerRank- Problems solved on [HackerRank](https://www.hackerrank.com/dashboard) website. (6ques)
 
-LeetCode- Problems solved on [LeetCode](https://leetcode.com/problemset/all/) website. (61ques)
+LeetCode- Problems solved on [LeetCode](https://leetcode.com/problemset/all/) website. (86ques)
 
 Misc. Programs- Random solved programs. (4programs)
