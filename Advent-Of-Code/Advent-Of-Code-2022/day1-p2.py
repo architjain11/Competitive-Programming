@@ -1,4 +1,4 @@
-f=open('Advent-Of-Code-2022\day1-data.txt')
+f=open('Advent-Of-Code\Advent-Of-Code-2022\day1-data.txt')
 calsList=list()
 cals=0
 for num in f:
