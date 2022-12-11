@@ -12,6 +12,7 @@ int main()
 	    while(n--) {
 	        int s,r;
 	        cin>>s>>r;
+			
 	        if(s<=x) maxr=max(maxr, r);
 	    }
 	    cout<<maxr<<endl;
