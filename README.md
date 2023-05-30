@@ -2,7 +2,7 @@
 
 ### Practice questions successfully solved are added in this repository in their respective folders.
 
-Total- 300 problems
+Total- 315 problems
 
 Advent of Code- Problems solved on [Advent of Code](https://adventofcode.com/). (2020- 6days, 2022- 3days; 2 parts each day)
 
@@ -14,6 +14,6 @@ GeeksForGeeks- Problems solved on [GFG](https://practice.geeksforgeeks.org/probl
 
 HackerRank- Problems solved on [HackerRank](https://www.hackerrank.com/dashboard) website. (6ques)
 
-LeetCode- Problems solved on [LeetCode](https://leetcode.com/problemset/all/) website. (212ques)
+LeetCode- Problems solved on [LeetCode](https://leetcode.com/problemset/all/) website. (227ques)
 
 Misc. Programs- Random solved programs. (12programs)
