@@ -12,7 +12,6 @@ public:
         int c1=solve(i+1, diff, rods, dp);
         int c2=rods[i]+solve(i+1, diff+rods[i], rods, dp);
         int c3=solve(i+1, diff-rods[i], rods, dp);
-
         return dp[i][diff+offset]=max({c1, c2, c3});
     }
 
