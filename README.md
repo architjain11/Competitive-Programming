@@ -1,8 +1,10 @@
 # Competitive Coding
 
+### [UPDATE] I am not actively maintaining this repo now. To view latest stats, please visit my [leetcode](https://leetcode.com/u/architjain11/) profile
+
 ### Practice questions successfully solved are added in this repository in their respective folders.
 
-Total- 567 problems
+Total- 567 problems (as of June, 2024)
 
 Advent of Code- Problems solved on [Advent of Code](https://adventofcode.com/). (2020- 6days, 2022- 3days; 2 parts each day)
 
